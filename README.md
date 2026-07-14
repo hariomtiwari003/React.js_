@@ -1,1 +1,1 @@
-React.js
+Learning React.js by building projects and complex UI.
